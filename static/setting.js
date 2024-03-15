@@ -1,0 +1,1 @@
+var setting={name:"包网-管理系统",reqUrl:"pay-admin-api.caacaya.com",nodeId:"500",im_url:"kf.gztonban.com"}
